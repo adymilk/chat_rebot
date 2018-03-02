@@ -169,7 +169,7 @@ footer .send{
     max-height: 100%;
 }
 .people .infinite{
-    animation-duration: 5s;
+    -webkit-animation-duration: 30s;
 }
 
 
