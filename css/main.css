@@ -112,7 +112,6 @@ body{
     height: 100%;
     padding: 0 1rem;
     top:0;
-    background: url("../img/people.png") no-repeat 50% 50%;
 }
 
 .main .hello{
@@ -164,6 +163,15 @@ footer .send{
     top: 50%;
     left: 50%;
 }
+.people img{
+    position: absolute;
+    max-width: 90%;
+    max-height: 100%;
+}
+.people .infinite{
+    animation-duration: 5s;
+}
+
 
 
 

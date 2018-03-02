@@ -25,7 +25,9 @@
 
         <div class="main">
             <h2 class="text-center hello" data-in-effect="slideInUp">Hi，我是小昕！</h2>
-            <div class="people"><img src="" alt=""></div>
+            <div class="people">
+                <img src="img/people.png" alt="" class="animated infinite flash">
+            </div>
             <div class="conversation"></div>
         </div>
 
@@ -105,6 +107,7 @@
                             console.log(result) //console变量在ie低版本下不能用
                             go_to_bottom();
                             $('.user_input').val('');
+                            $('.people').html('');
                         }
                     });
                 }else {
