@@ -98,32 +98,30 @@ textarea {
    Author's custom styles
    ========================================================================== */
 body{
-    background-color: #2f2f30;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
 }
 .text-center{
     text-align: center;
 }
 .main{
+    background-color: #2f2f30;
     max-width: 414px;
     height: 100%;
-    padding: 0 1rem;
-    top:0;
+    margin: 0 auto;
 }
-
+.main .top{
+    position: relative;
+    height: 92%;
+}
 .main .hello{
     color: white;
     margin: 0;
     padding-top: 30px;
 }
 .main .conversation{
-    margin-bottom: 25%;
+    margin-bottom: 30%;
 }
 .main .conversation .q{
-    color: red;
+    color: #cddc39;
     text-align: right;
     margin: 0.5rem;
 }
@@ -136,7 +134,8 @@ footer{
     position: fixed;
     bottom: 0;
     height: 8%;
-    width: 100%;
+    max-width: 414px;
+    margin: 0 auto;
 }
 footer input{
     display: inline-block;
@@ -146,8 +145,12 @@ footer input{
     height: 100%;
 }
 footer .user_input{
-    width: 80%;
+    width: 78%;
     float: left;
+    height: 100%;
+    background-color: white;
+    color: black;
+    padding: 5% 1%;
 }
 footer .user_input::-webkit-input-placeholder{
     padding-left: 0.6rem;
@@ -163,13 +166,14 @@ footer .send{
     top: 50%;
     left: 50%;
 }
-.people img{
+.people .infinite{
     position: absolute;
     max-width: 90%;
     max-height: 100%;
-}
-.people .infinite{
     -webkit-animation-duration: 30s;
+    bottom: 0;
+    margin: 0 auto;
+    left: 5%;
 }
 
 
