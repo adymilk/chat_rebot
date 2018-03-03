@@ -5,7 +5,7 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <title>问答机器人- 枫电科技制作</title>
         <meta name="description" content="">
-        <meta name="viewport" content="target-densitydpi=device-dpi,width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
 
         <link rel="manifest" href="site.webmanifest">
         <link rel="apple-touch-icon" href="icon.png">
@@ -96,6 +96,7 @@
             });
             function send() {
                 var q = $('.user_input').val();
+                console.log(q);
                 if(q !== ''){
                     var str_q = "<div class='q' data-in-effect='wobble'>Q："+ q +"</div>";
                     $('.conversation').append(str_q);
