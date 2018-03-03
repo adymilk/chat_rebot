@@ -69,9 +69,6 @@ img.emoji {
     user-select: none;
 }
 
-.emoji-picker-icon.parent-has-scroll {
-    right: 28px;
-}
 
 .emoji-picker-icon:hover {
     opacity: 1;
@@ -90,9 +87,6 @@ img.emoji {
 
 
 
-.emoji-wysiwyg-editor.parent-has-scroll {
-     padding-right: 40px;
- }
 
 .emoji-wysiwyg-editor.single-line-editor {
     min-height: 35px;

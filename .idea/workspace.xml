@@ -2,28 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fda2c38-e0f5-4a3e-a4cb-9e6e35025398" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/IconsetSmiles.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/IconsetSmiles_1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/IconsetW.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/IconsetW_1x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/emoji_spritesheet_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/emoji_spritesheet_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/emoji_spritesheet_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/emoji_spritesheet_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/emoji_spritesheet_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/emoji.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/emoji.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/emoji.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/emoji-picker.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/emoji-picker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/emoji-picker.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/jquery.emojiarea.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/util.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/css/emoji.css" afterPath="$PROJECT_DIR$/lib/css/emoji.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,24 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="131" column="54" lean-forward="true" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
+            <state relative-caret-position="493">
+              <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#3498#4330#0" expanded="false" />
+                <element signature="e#3147#3979#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="152" column="18" lean-forward="false" selection-start-line="152" selection-start-column="18" selection-end-line="152" selection-end-column="18" />
+            <state relative-caret-position="432">
+              <caret line="153" column="20" lean-forward="false" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -72,6 +53,7 @@
       <find>21</find>
       <find>21px</find>
       <find>emoji-wysiwyg-editor</find>
+      <find>.emoji-picker-icon.parent-has-scroll</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,11 +67,11 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/emoji.js" />
         <option value="$PROJECT_DIR$/css/emoji.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/lib/css/emoji.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -224,7 +206,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30405000" />
+    <option name="totallyTimeSpent" value="31249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -494,28 +476,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/css/emoji.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="58" column="20" lean-forward="false" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="152" column="18" lean-forward="false" selection-start-line="152" selection-start-column="18" selection-end-line="152" selection-end-column="18" />
+        <state relative-caret-position="244">
+          <caret line="70" column="0" lean-forward="true" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="131" column="54" lean-forward="true" selection-start-line="131" selection-start-column="54" selection-end-line="131" selection-end-column="54" />
+        <state relative-caret-position="493">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#3498#4330#0" expanded="false" />
+            <element signature="e#3147#3979#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="153" column="20" lean-forward="false" selection-start-line="153" selection-start-column="20" selection-end-line="153" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
